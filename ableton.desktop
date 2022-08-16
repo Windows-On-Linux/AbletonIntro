@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Ableton Live 11 Intro
+Icon=~/wol/Ableton_Live_11_Intro/icon.png
+Exec=~/wol/Ableton_Live_11_Intro/startup.sh
